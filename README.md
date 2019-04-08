@@ -4,6 +4,7 @@ A photo comment application built with Flutter.
 
 Technologies used
 -------
+Flutter and iOS
 
 Photos of app
 -----
