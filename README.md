@@ -1,16 +1,15 @@
 # shashin_appli
 
-A photo application built with Flutter.
+A photo comment application built with Flutter.
 
-## Getting Started
+Technologies used
+-------
 
-This project is a starting point for a Flutter application.
+Photos of app
+-----
 
-A few resources to get you started if this is your first Flutter project:
+![appshot1](https://user-images.githubusercontent.com/19915910/55725107-e6a10180-5a47-11e9-9e85-01e3416789f3.PNG)
+![appshot2](https://user-images.githubusercontent.com/19915910/55725135-f91b3b00-5a47-11e9-88f7-ee748f715d5e.PNG)
+![appshot3](https://user-images.githubusercontent.com/19915910/55725164-118b5580-5a48-11e9-9b09-b506324b5535.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
